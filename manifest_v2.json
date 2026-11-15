@@ -9,8 +9,8 @@
       "media/65243.png",
       "media/65244.png"
     ],
-    "icon": "media/65241.png",
-    "cover": "media/65245.png",
+    "icon": "media/65250.png",
+    "cover": "media/65253.png",
     "author": [
       {
         "name": "bandbbs_487470",
@@ -22,12 +22,12 @@
   "downloads": {
     "xmb9": {
       "version": "1.0.0",
-      "file_name": "downloads/B9NFC_3135_G9_原生3D后室_层间迷途_五层版_367615173.bin",
+      "file_name": "downloads/后室_层间迷途_小米手环9NFC_3.1.35.bin",
       "versionCode": 65536
     },
     "xmb9p": {
       "version": "1.0.0",
-      "file_name": "downloads/B9PRO_3190_原生五层后室_367915199.bin",
+      "file_name": "downloads/后室_层间迷途_小米手环9Pro_3.1.190.bin",
       "versionCode": 65536
     }
   },
