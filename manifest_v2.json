@@ -1,0 +1,37 @@
+{
+  "item": {
+    "id": "979847249824",
+    "restype": "watchface",
+    "name": "3D后室：层间迷途",
+    "description": "《后室：层间迷途》是一款原生3D探索游戏，包含五层后室、解谜任务和危险实体，支持探索与生存模式。寻找线索、完成目标，逃离迷宫。\n仅适配小米手环9 NFC固件3.1.35及9 Pro固件3.1.190，不适配的请不要下载",
+    "preview": [
+      "media/65242.png",
+      "media/65243.png",
+      "media/65244.png"
+    ],
+    "icon": "media/65241.png",
+    "cover": "media/65245.png",
+    "author": [
+      {
+        "name": "bandbbs_487470",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb9": {
+      "version": "1.0.0",
+      "file_name": "downloads/B9NFC_3135_G9_原生3D后室_层间迷途_五层版_367615173.bin",
+      "versionCode": 65536
+    },
+    "xmb9p": {
+      "version": "1.0.0",
+      "file_name": "downloads/B9PRO_3190_原生五层后室_367915199.bin",
+      "versionCode": 65536
+    }
+  },
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true
+  }
+}
