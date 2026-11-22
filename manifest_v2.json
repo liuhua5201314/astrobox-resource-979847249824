@@ -7,10 +7,14 @@
     "preview": [
       "media/65242.png",
       "media/65243.png",
-      "media/65244.png"
+      "media/65244.png",
+      "media/65495.png",
+      "media/65496.png",
+      "media/65497.png",
+      "media/65498.png"
     ],
     "icon": "media/65250.png",
-    "cover": "media/65253.png",
+    "cover": "media/65503.jpg",
     "author": [
       {
         "name": "bandbbs_487470",
@@ -18,17 +22,23 @@
       }
     ]
   },
-  "links": [],
+  "links": [
+    {
+      "title": "了解更多更新内容请前往QQ群",
+      "url": "https://qun.qq.com/universal-share/share?ac=1&authKey=K0Qzu1bm171ASA8qQjiAdbfizZY92RGWjwuyeYYpEogIbzIaanRX5mrjGnAOKayO&busi_data=eyJncm91cENvZGUiOiI5Nzk0MDkwMTQiLCJ0b2tlbiI6IlZwN3BMUHVmeTRTQmw3SUZ4bW4rV3d2TEtZKy9Pem10SmQ2OVEwbUg3eVhZZjQzRHRRSkZLbzE5NkVkMkV1TE0iLCJ1aW4iOiIzNDUxOTgyMjg1In0=&data=qrcGMZVlE9VvKh1gaoP2Y5RizOV8Pic-6v4sKvVU68e3pyFY5Rwf-TbAGYd5C3fgRo99DyYIiC_322EPIix61u1eBaVAiUiXxhxeXzbDR74&svctype=5&tempid=h5_group_info",
+      "icon": "mosque"
+    }
+  ],
   "downloads": {
     "xmb9": {
-      "version": "1.0.0",
-      "file_name": "downloads/后室_层间迷途_小米手环9NFC_3.1.35.bin",
-      "versionCode": 65536
+      "version": "1.0.19",
+      "file_name": "downloads/后室_S9_小米手环9NFC_3.1.35.bin",
+      "versionCode": 65555
     },
     "xmb9p": {
-      "version": "1.0.0",
-      "file_name": "downloads/后室_层间迷途_小米手环9Pro_3.1.190.bin",
-      "versionCode": 65536
+      "version": "1.0.19",
+      "file_name": "downloads/后室_S9_小米手环9Pro_3.1.190.bin",
+      "versionCode": 65555
     }
   },
   "ext": {
