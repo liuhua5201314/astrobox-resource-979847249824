@@ -2,7 +2,7 @@
   "item": {
     "id": "979847249824",
     "restype": "watchface",
-    "name": "3D后室：层间迷途",
+    "name": "3D后室",
     "description": "《后室：层间迷途》是一款原生3D探索游戏，包含五层后室、解谜任务和危险实体，支持探索与生存模式。寻找线索、完成目标，逃离迷宫。\n仅适配小米手环9 NFC固件3.1.35及9 Pro固件3.1.190，不适配的请不要下载",
     "preview": [
       "media/65242.png",
@@ -11,7 +11,8 @@
       "media/65495.png",
       "media/65496.png",
       "media/65497.png",
-      "media/65498.png"
+      "media/65498.png",
+      "media/1795340025464.jpg"
     ],
     "icon": "media/65250.png",
     "cover": "media/65503.jpg",
@@ -25,20 +26,20 @@
   "links": [
     {
       "title": "了解更多更新内容请前往QQ群",
-      "url": "https://qun.qq.com/universal-share/share?ac=1&authKey=K0Qzu1bm171ASA8qQjiAdbfizZY92RGWjwuyeYYpEogIbzIaanRX5mrjGnAOKayO&busi_data=eyJncm91cENvZGUiOiI5Nzk0MDkwMTQiLCJ0b2tlbiI6IlZwN3BMUHVmeTRTQmw3SUZ4bW4rV3d2TEtZKy9Pem10SmQ2OVEwbUg3eVhZZjQzRHRRSkZLbzE5NkVkMkV1TE0iLCJ1aW4iOiIzNDUxOTgyMjg1In0=&data=qrcGMZVlE9VvKh1gaoP2Y5RizOV8Pic-6v4sKvVU68e3pyFY5Rwf-TbAGYd5C3fgRo99DyYIiC_322EPIix61u1eBaVAiUiXxhxeXzbDR74&svctype=5&tempid=h5_group_info",
+      "url": "https://qun.qq.com/universal-share/share?ac=1&authKey=17xcjfd/jaTEzK3w35f95osUCW/r6O2Q6%2BZIgdWPyNOmV9tiNrHSBheEo8C6HjO0&busi_data=eyJncm91cENvZGUiOiI5Nzk0MDkwMTQiLCJ0b2tlbiI6IndsNTVWeGF3K1dSRnQ4Y3RUZGI3QVl4ZXNONEV5YWVxU05RWXBOYkhzODZ2UHNETEk5eUlrQTAvTUlaUzdQT2YiLCJ1aW4iOiIzNDUxOTgyMjg1In0=&data=DANk0njLxEyfBEhz8Zu5Tk8gVH7nffYYSnwMYCFJhCDIhPl801JnffCaZaERu19S6stmI3K74Jl1p-njFzoKlL1RDRUTRG1H5Qvc4t5vn_8&svctype=5&tempid=h5_group_info",
       "icon": "mosque"
     }
   ],
   "downloads": {
     "xmb9": {
-      "version": "1.0.19",
-      "file_name": "downloads/后室_S9_小米手环9NFC_3.1.35.bin",
-      "versionCode": 65555
+      "version": "1.0.22",
+      "file_name": "downloads/后室_S10_9NFC_3.1.35.bin",
+      "versionCode": 65558
     },
     "xmb9p": {
-      "version": "1.0.19",
-      "file_name": "downloads/后室_S9_小米手环9Pro_3.1.190.bin",
-      "versionCode": 65555
+      "version": "1.0.22",
+      "file_name": "downloads/后室_S10_9Pro_3.1.190.bin",
+      "versionCode": 65558
     }
   },
   "ext": {
